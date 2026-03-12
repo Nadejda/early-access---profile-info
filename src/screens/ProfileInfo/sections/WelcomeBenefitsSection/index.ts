@@ -1,0 +1,1 @@
+export { WelcomeBenefitsSection } from "./WelcomeBenefitsSection";
